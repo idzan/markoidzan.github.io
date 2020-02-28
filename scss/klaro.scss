@@ -97,7 +97,7 @@
 
             position: fixed;
             overflow: auto;
-            background: $bg;
+            background: $light;
             color: $dark;
 
             .hide   {
@@ -198,7 +198,7 @@
 
     .cookie-notice {
 
-        background: $bg;
+        background: $light;
         z-index: 999;
 
         position: fixed;
