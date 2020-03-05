@@ -14,9 +14,10 @@ What is gives up, why moving from Adobe - well, for me it is big move because I 
 
 So, to which apps I moved - here is list of apps that I tried and on which I started to use after Adobe apps.
 
-**Adobe Photosohop** - for this app there is lot of alternatives, but I have switched to **Affinity Photo**. Yup, Serif's Affinity Photo. Why - just because in version 1.8 it supports Smart Objects from Photoshop. This keeped me away from moving on Photoshop, but now when it is availiable in Affinity Photo I said finally - _Good bye, Auf wiederhsen_ Photoshop, welcome Affinity. As backup apps I'm running **GIMP** and **Paint.net** just because I know how to use them and they are my favorites for it. Just to know it - I will pruchase Affinity tools soon(TM), I'm currently running _pirated_ version from [Repack.me](https://repack.me/) site just because I'm waiting to get my Company opened (blog post coming after company is opened).
+**Adobe Photoshop** - for this app there is lot of alternatives, but I have switched to **Affinity Photo**. Yup, Serif's Affinity Photo. Why - just because in version 1.8 it supports Smart Objects from Photoshop. This keeped me away from moving on Photoshop, but now when it is available in Affinity Photo I said finally - _Good bye, Auf wiedersehen_ Photoshop, welcome Affinity. As backup apps I'm running **GIMP** and **Paint.net** just because I know how to use them and they are my favorites for it. Just to know it - I will purchase Affinity tools soon(TM), I'm currently running _pirated_ version from [Repack.me](https://repack.me/) site just because I'm waiting to get my Company opened (blog post coming after company is opened).
 
-**Adobe Illustrator** - and for this there is few apps which I use and main is **Affinity Designer** and **Inkscape**. Both are great, but Inskscape is free and open-source which helps me when I'm on my Linux machine. Both apps are great and both are functional for my usage of them which is mostly for small logo creation or for edits on SVG files.
+**Adobe Illustrator** - and for this there is few apps which I use and main is **Affinity Designer** and **Inkscape**. Both are great, but Inkscape is free and open-source which helps me when I'm on my Linux machine. Both apps are great and both are functional for my usage of them which is mostly for small logo creation or for edits on SVG files.
+
 
 **Adobe Premiere Pro** - for this app I have already alternative in Sony (now Magix) **Vegas Pro 13** which I bought (yup, bought) while back on Steam when it was on big sale. I always preferred Sony Vegas because it was easier to learn how-to edit in it. Before buying Vegas Pro I bought **Movie Studio 13 Platinum** just because I wanted to get into legit usage of Sony tools in old company. Plus, on this Winter Sale on Steam I also bought **Movavi Video Studio** which helped me to create simple edits with cool transitions for project which never saw lights on YouTube but it was shown on one presentation. For my Linux rig I use **Kdenlive** which is good alternative even to Sony Vegas Pro.
 
@@ -28,8 +29,8 @@ So, to which apps I moved - here is list of apps that I tried and on which I sta
 
 **Adobe XD** - oh boy. I used it few times and found better alternatives in **Figma** (which is best app for all Operating Systems because it is web based), **Gravit Designer** and **Lunacy** (which can load Sketch files).
 
-This is just my personal apps which I started using after Adobe Creative Cloud for as long as I know for it and previously as Creative Studio for years. It is now basically relearning new shortcuts for Affinity apps and lerning new stuff about apps like Figma which I started using lately.
+This is just my personal apps which I started using after Adobe Creative Cloud for as long as I know for it and previously as Creative Studio for years. It is now basically relearning new shortcuts for Affinity apps and learning new stuff about apps like Figma which I started using lately.
 
-Otherwise, this was long journey which started in September of 2019. and it is finished now with release of 1.8 for Affinity "Suite".
+Otherwise, this was long journey which started in September of 2019. and it is finished now with release of 1.8 for Affinity “Suite”.
 
 _Note:_ Pirated apps would be replaced with paid versions when I start company in next couple of weeks. Then I would need to have all apps legit and purchased.
