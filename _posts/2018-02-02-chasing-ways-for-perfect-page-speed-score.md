@@ -3,7 +3,7 @@ title: Chasing Ways for Perfect Page Speed Score
 date: 2018-02-02T20:32:59+00:00
 layout: post
 categories:
-  - Technology Blog
+  - Technology
 ---
 OK, just to you all know here are my experience with speeding up and optimization of couple of web sites just to have good score like A or just B score on [GTMetrix ](https://gtmetrix.com/)website. I also test sited on [Pingdom Tools](https://tools.pingdom.com/), but that is just for OnLoad Time. For full page speed always run page speed tests on GTMetrix. They are more reliable for me in my experiences.
 

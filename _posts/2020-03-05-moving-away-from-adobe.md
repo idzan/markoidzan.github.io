@@ -3,8 +3,7 @@ title: Moving away from Adobe
 date: 2020-03-05T21:25:00+00:00
 layout: post
 categories:
-  - Blog
-  - Technology Blog
+  - Technology
 ---
 Soo, it took me a while but I'm now finally (yes, finally) Adobe CC Free.
 

@@ -3,7 +3,8 @@ title: Creating Simple and Responsive Jekyll blog using CSS Grid
 date: 2019-08-16T01:22:43+00:00
 layout: post
 categories:
-  - Blog
+  - Technology
+  - Code
 ---
 So, after long time using [WordPress.com](https://wordpress.com) as my backup for old blog posts and after some time with working in Jekyll I got an idea - why not convert old WordPress based blog into Jekyll based which can be hosted on GitHub as git provider and Netlify to provide front end and CDN for it.
 

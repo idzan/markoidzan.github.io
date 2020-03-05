@@ -3,7 +3,8 @@ title: Converting any PWA enabled web site into Android Application
 date: 2019-06-11T01:09:31+00:00
 layout: post
 categories:
-  - Blog
+  - Technology
+  - Code
 ---
 So, you have decided that your web site can be used as PWA (Progressive Web Application), and now want it to be published on Google Play Store™ as real Android application.
 

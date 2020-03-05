@@ -3,8 +3,8 @@ title: How it is to switch CMS?
 date: 2019-05-11T00:55:50+00:00
 author: marko
 layout: post
-categories:
-  - Blog
+categories: 
+  - Updates
 ---
 CMS - One abbreviation for Content Management System. It can be used for lot of things. I have mostly is used it for web development and design, but it can be used for ERP, CMS for Business portals etc.
 

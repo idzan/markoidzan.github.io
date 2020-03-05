@@ -3,8 +3,7 @@ title: Studio4Web vs Plus.hr – usporedba dvaju web hostinga (plaćenih)
 date: 2012-12-23T00:28:00+00:00
 layout: post
 categories:
-  - Blog
-  - Recenzije
+  - Reviews
 ---
 Važna napomena: ovo su iskustva sa ova 2 web hostinga i ne prenosim ničije mišljenje (osim svoje vlastito i iskustvo sa hostinzima).
 

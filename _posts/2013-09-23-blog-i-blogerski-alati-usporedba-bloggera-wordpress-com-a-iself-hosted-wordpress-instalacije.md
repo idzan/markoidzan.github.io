@@ -3,8 +3,8 @@ title: 'Blog i blogerski alati &#8211; usporedba Bloggera, WordPress.com-a iself
 date: 2013-09-23T21:24:00+00:00
 layout: post
 categories:
-  - Blog
-  - Recenzije
+  - Technology
+  - Reviews
 ---
 Dragi moji čitatelji, znam da vam je teško čitati ove objave ali... Vidim da se mnogi interesirate za moje objave, u čemu pišem te zbog čega sam odabrao to što trenutno koristim.
 

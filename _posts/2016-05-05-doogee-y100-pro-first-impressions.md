@@ -3,7 +3,7 @@ title: 'Doogee Y100 Pro &#8211; First impressions'
 date: 2016-05-05T09:52:51+00:00
 layout: post
 categories:
-  - Technology Blog
+  - Technology
 ---
 Just one note: this is not a review per se, this are just my first impressions on this device after almost of week using it (6 days of use to be precise).
 

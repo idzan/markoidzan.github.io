@@ -4,7 +4,8 @@ date: 2018-01-13T20:31:11+00:00
 author: marko
 layout: post
 categories:
-  - Technology Blog
+  - Technology
+  - Updates
 ---
 Say what, how can you migrate from this awesome blogging platform named WordPress to something else? What is wrong with you man.
 

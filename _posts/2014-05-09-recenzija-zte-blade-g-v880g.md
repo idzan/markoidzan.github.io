@@ -3,7 +3,8 @@ title: '[RECENZIJA] ZTE Blade G V880G'
 date: 2014-05-09T22:03:00+00:00
 layout: post
 categories:
-  - Technology Blog
+  - Technology
+  - Reviews
 ---
 Ah ti moderni smartfonovi… Svako malo izađe neki novi model. No, ovdje se ne radi o recenziji najnovijeg smartfona iz serije flagshipa. Ne, ovdje se radi o recenziji jednog low/mid-budget smartfona za jednog ne baš naprednog korisnika.
 

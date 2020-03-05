@@ -3,7 +3,7 @@ title: Bootloops and bricks
 date: 2016-05-21T16:15:29+00:00
 layout: post
 categories:
-  - Technology Blog
+  - Technology
 ---
 So, you all might ask one thing right now:
 

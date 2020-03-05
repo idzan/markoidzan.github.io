@@ -3,7 +3,7 @@ title: 'Switching phones - Part 1'
 date: 2016-04-27T23:19:23+00:00
 layout: post
 categories:
-  - Technology Blog
+  - Technology
 ---
 Oh boy it is tough to write about this topic, especially when you still didn’t bought new phone. But even trough my phone is chosen and it is cheap process would take some time. Why you as reader might ask?
 

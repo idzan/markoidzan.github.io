@@ -3,7 +3,7 @@ title: 'Switching phones - Part 2'
 date: 2016-04-30T01:53:34+00:00
 layout: post
 categories:
-  - Technology Blog
+  - Technology
 ---
 Well this was fast post part 2 so shall we start with one announcement – review of Doogee Valencia 2 Y100 Pro is coming in next couple of weeks. Now, let’s say what are my 3 most important things when switching phones.
 

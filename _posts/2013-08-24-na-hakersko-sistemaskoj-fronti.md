@@ -3,7 +3,7 @@ title: Na hakersko-sistemaškoj fronti
 date: 2013-08-24T21:59:00+00:00
 layout: post
 categories:
-  - Blog
+  - Technology
 ---
 Sve je spremno za ulazak u mistični svijet hakera i hakerskih podviga. A što je to potrebno za taj ulazak pitate se sigurno. E pa za to vam je potreban veliki Internet paket, dosta vremena, nekoliko praznih CD-ova/DVD-ova ili neki USB stick od barem 4GB (8GB je poželjno) te naravno glavna stvar Linux distra po vašoj želji.<a name='more'></a>Kod odabira distribucija poslužite se sa nekoliko izvora. Primjerice **Distrowatch.com**, **Linux za sve (HR)**, **WebUpd8** te **Dedoimedo.com** su odlične stranice za saznati nešto više o OpenSourceu, Linuxima i ostalim poveznicama.
 

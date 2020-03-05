@@ -3,7 +3,7 @@ title: Handball euphoria
 date: 2018-01-20T20:32:13+00:00
 layout: post
 categories:
-  - Classic Blog
+  - Blog
 ---
 Oh boy, it is on it. “Cowboys”* are running up in European Championship onto Gold medal 🏅. 
 

@@ -3,7 +3,7 @@ title: What to do to optimize your website
 date: 2019-11-05T01:31:20+00:00
 layout: post
 categories:
-  - Blog
+  - Technology
 ---
 Alright, you got your website online and it is fine from your side but then shocker – some random reader of website contact you to say that your website is slow as 🦆 and took him almost a 30 seconds to load website.
 

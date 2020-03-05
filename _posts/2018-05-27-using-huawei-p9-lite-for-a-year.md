@@ -2,8 +2,9 @@
 title: Using Huawei P9 Lite for a year
 date: 2018-05-27T20:41:02+00:00
 layout: post
-categories:
-  - Technology Blog
+categories: 
+  - Technology
+  - Reviews
 ---
 Or as I would write this alternative title: Long term review of Huawei P9 Lite with 3GB of RAM
 

@@ -3,8 +3,8 @@ title: Free versions of operating systems
 date: 2013-12-03T23:54:00+00:00
 layout: post
 categories:
-  - Blog
-  - Technology Blog
+  - Reviews
+  - Technology
 ---
 No they are not Linux Distros sf you thought that from the title… These are the two most recent operating system from two oposing sides… And do not question the Android against iOS, but that the other two companies… And if you think it is now well-established feud between Scroogled Microsoft and calm Google, you don't have another chance to think what those two companies are…
 

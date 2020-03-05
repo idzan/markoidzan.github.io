@@ -2,8 +2,9 @@
 title: Using Open Source Operating System
 date: 2018-04-29T20:38:34+00:00
 layout: post
-categories:
-  - Technology Blog
+categories: 
+  - Technology 
+  - Reviews
 ---
 Here we go, new Ubuntu 18.04 LTS is up and it would be one of better supported versions of Ubuntu in last 2 years. It already have couple of big changes like Gnome after almost 8 years of forcing Unity as main Desktop Environment and also it switched back from Wayland to Xorg (thank God for lot of users which use apps like TeamViewer).
 

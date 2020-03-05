@@ -2,8 +2,8 @@
 title: Comparison of popular WordPress Caching Plugins
 date: 2018-06-05T21:31:36+00:00
 layout: post
-categories:
-  - Technology Blog
+categories: 
+  - Technology
 ---
 Just to note at first - I'm going to compare 4 used Caching Plugins based of only one web site - maskice.hr's Web Shop. I'm only going to compare Plugins so be aware of that. Keeping that out of the line and in mind here we go.
 

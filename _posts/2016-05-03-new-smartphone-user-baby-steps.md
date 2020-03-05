@@ -3,7 +3,7 @@ title: 'New smartphone user - Baby steps'
 date: 2016-05-03T17:44:52+00:00
 layout: post
 categories:
-  - Technology Blog
+  - Technology
 ---
 As on beginning of this post somebody might ask
 

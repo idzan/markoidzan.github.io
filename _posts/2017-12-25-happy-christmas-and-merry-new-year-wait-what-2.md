@@ -3,7 +3,7 @@ title: 'Happy Christmas and Merry New Year! Wait, what&#8230;'
 date: 2017-12-25T20:30:27+00:00
 layout: post
 categories:
-  - Classic Blog
+  - Blog
 ---
 .. what did I just wrote as title. Am I drunk or what is wrong with me right now.
 

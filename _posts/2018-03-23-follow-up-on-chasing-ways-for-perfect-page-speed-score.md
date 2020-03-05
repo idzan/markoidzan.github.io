@@ -3,7 +3,7 @@ title: Follow-Up on Chasing Ways for Perfect Page Speed Score
 date: 2018-03-23T20:36:28+00:00
 layout: post
 categories:
-  - Technology Blog
+  - Technology
 ---
 As you might saw in post [Chasing Ways for Perfect Page Speed Score](https://markoidzan.com.hr/chasing-ways-for-perfect-page-speed-score/) in the end in update I wrote that after changing links to latest Speed Test Results I would had to write quick Follow-Up with new discoveries, so here we go.
 

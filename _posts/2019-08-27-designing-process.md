@@ -3,7 +3,7 @@ title: Designing Process
 date: 2019-08-27T01:24:05+00:00
 layout: post
 categories:
-  - Blog
+  - Technology
 ---
 Alright, this post might be wired for my blog, but trust me when I say this - it is fine, this is just my way of thinking while developing, designing and finally publishing web site and web projects.
 

@@ -3,7 +3,7 @@ title: Uskršnja čestitka
 date: 2014-04-20T18:09:00+00:00
 layout: post
 categories:
-  - Classic Blog
+  - Blog
 ---
 ##### \*Rap beat ide uza sve ovo\*
 

@@ -3,7 +3,8 @@ title: '[RECENZIJA I PRVI POGLED] Windows 10 Technical Preview'
 date: 2014-10-07T19:17:00+00:00
 layout: post
 categories:
-  - Technology Blog
+  - Technology
+  - Reviews
 ---
 Nein, nein, nein… Ne može se ova nova verzija Windowsa zvati Windows 10\. Prema nekoj logici treba se zvati Windows 9 a ne 10… Ali ne… MS i njihova One politika koja ovaj put nije uspjela jer je Bill Gates izbacio Windows 1\. A zašto onda ne bi dodali nulu pa da bude desetka? E pa zato jer je sistem čak i u ovoj Technical Preview fazi za desetku 😉
 

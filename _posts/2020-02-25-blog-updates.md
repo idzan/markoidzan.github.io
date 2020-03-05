@@ -3,7 +3,7 @@ title: Blog Updates
 date: 2020-02-25T10:27:40+00:00
 layout: post
 categories:
-  - Blog
+  - Updates
 ---
 Hello all. As you all might saw in last couple of weeks, this personal blog was moved from authors main web site to this, smaller but still functional web site and domain.
 
