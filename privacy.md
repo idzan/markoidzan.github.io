@@ -76,4 +76,4 @@ We may update this privacy policy from time to time. The updated version will be
 
 If you have questions or comments about this policy, you may contact our Data Protection Officer (DPO), Marko Idzan, by email at marko.idzan@markoidzan.com.hr
  
-If you are a resident in the European Economic Area, the "data controller" of your personal information is Marko Idzan. Marko Idzan has appointed Marko Idzan to be its representative in the EEA. You can contact them directly regarding the processing of your information by Marko Idzan, by email at marko.idzan@markoidzan.com.hr, 
+If you are a resident in the European Economic Area, the "data controller" of your personal information is Marko Idzan. Marko Idzan has appointed Marko Idzan to be its representative in the EEA. You can contact them directly regarding the processing of your information by Marko Idzan, by email at marko.idzan@markoidzan.com.hr 
